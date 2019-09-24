@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgba(7,45,35,1) 0%, rgba(7,48,48,1) 100%)
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+#image {
+  width: 200px;
+  height: 200px;
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: #fff;
+
 }
